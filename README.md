@@ -4,7 +4,7 @@
 
 QuickMockup is a simple tool for creating simple mockups of interfaces and websites. It is HTML based and javascript-enhanced.
 
-**[Try the demo](https://jdittrich.github.io/quickMockup/)**
+**[Try the demo](https://atikur-rabbi.github.io/quickMockup/)**
 
 --------------------
 ![Screenshot](https://i.imgur.com/D4B3ggc.png)
